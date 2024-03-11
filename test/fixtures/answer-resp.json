@@ -1,0 +1,25 @@
+{
+  "completion": "OK",
+  "parameters": {
+      "step": 1,
+      "answers": [
+        {
+          "answer": "Yes"
+        },
+        {
+          "answer": "No"
+        },
+        {
+          "answer": "Don't know"
+        },
+        {
+          "answer": "Probably"
+        },
+        {
+          "answer": "Probably not"
+        }
+      ],
+      "question": "Is your character a girl?",
+      "progression": "30.9550"
+  }
+}

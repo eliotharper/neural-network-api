@@ -1,0 +1,34 @@
+{
+  "completion": "OK",
+  "parameters": {
+    "identification": {
+      "channel": 0,
+      "session": "295",
+      "signature": "1263400654"
+    },
+    "step_information": {
+      "question": "Is your character real?",
+      "answers": [
+        {
+          "answer": "Yes"
+        },
+        {
+          "answer": "No"
+        },
+        {
+          "answer": "Don't know"
+        },
+        {
+          "answer": "Probably"
+        },
+        {
+          "answer": "Probably not"
+        }
+      ],
+      "step": "0",
+      "progression": "0.00000",
+      "questionid": "1549",
+      "infogain": "0.730531"
+    }
+  }
+}

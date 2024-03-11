@@ -1,0 +1,43 @@
+{
+  "completion": "OK",
+  "parameters": {
+    "elements": [
+      {
+        "element": {
+          "id": "16064",
+          "name": "Gilgamesh",
+          "id_base": "518325",
+          "proba": "0.0399161",
+          "description": "Fate/stay night",
+          "valide_contrainte": "1",
+          "ranking": "8652",
+          "minibase_addable": "0",
+          "relative_id": "-1",
+          "pseudo": "none",
+          "picture_path": "none.jpg"
+        }
+      },
+      {
+        "element": {
+          "id": "4039",
+          "name": "Sakata Gintoki",
+          "id_base": "347529",
+          "proba": "0.02959",
+          "description": "Gintama",
+          "valide_contrainte": "1",
+          "ranking": "4716",
+          "minibase_addable": "0",
+          "relative_id": "-1",
+          "pseudo": "none",
+          "picture_path": "none.jpg"
+        }
+      }
+    ],
+    "NbObjetsPertinents": "2",
+    "identification": {
+      "channel": 0,
+      "session": "295",
+      "signature": "1263400654"
+    }
+  }
+}

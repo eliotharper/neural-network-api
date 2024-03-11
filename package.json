@@ -1,0 +1,26 @@
+{
+  "name": "akinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/akinator.js",
+  "scripts": {
+    "start-prod": "pm2 start server.js --name akinator",
+    "stop-prod":  "pm2 stop server.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "DigitalLogic",
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "nock": "^2.11.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "levenshtein": "^1.0.5",
+    "object-assign": "^4.0.1",
+    "pm2": "^0.14.7",
+    "redis": "^1.0.0",
+    "request": "^2.61.0",
+    "uuid": "^2.0.1"
+  }
+}
